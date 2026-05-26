@@ -23,10 +23,12 @@ The player folds dough, fills it with meat or cheese, and serves customers befor
 
 ## How to Play
 
-- **Fold the dough**: click and drag from an edge of the dough.
-- **Pick up filling**: hold the mouse button on a meat or cheese piece, move it over the dough, release to drop.
-- **Submit**: when your samosa matches the order, click the Submit button.
-- The game lasts 60 seconds. Serve as many customers as you can.
+1. **Press Start** on the title screen to begin.
+2. **Fold the dough**: click and drag from an edge of the dough.
+3. **Pick up filling**: hold the mouse button on a meat or cheese piece, move it over the dough, release to drop.
+4. **Submit**: when your samosa matches the order, click the Submit button.
+
+The game lasts 60 seconds. Serve as many customers as you can. When time runs out, your score is shown and you can restart.
 
 ## Architecture
 
