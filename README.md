@@ -3,7 +3,11 @@
 A timed mobile prototype that transforms paper-folding mechanics into a samosa-making game.
 The player folds dough, fills it with meat or cheese, and serves customers before time runs out.
 
-![Gameplay screenshot](docs/gameplay.png)
+## Gameplay
+
+![Gameplay GIF](docs/Gamplay.gif)
+
+[Watch the full demo →](https://youtu.be/qET629fssZ4)
 
 ## Setup
 
